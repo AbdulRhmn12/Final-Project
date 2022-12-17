@@ -306,6 +306,7 @@ int main()
       cout << "2. Kota " << endl;
       cout << "3. Level PPKM " << endl;
       cout << "Masuk Surga!!!!!!!!!";
+      cout << "Masuk Neraka !!!!!!!";
       cout << "Masukkan Nomer Data Yang Ingin Anda Cari = ";
       cin >> pilihan1;
 
